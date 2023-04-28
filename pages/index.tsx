@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import { NextPage } from "next"
 import Head from "next/head"
 

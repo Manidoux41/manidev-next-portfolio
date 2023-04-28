@@ -6,7 +6,7 @@ import Head from "next/head"
 
 const Home: NextPage = () => {
   return (
-    <div>
+    <div className="bg-[rgb(36,36,36)] text-white h-screen">
       <Head>
         <title>Manidev's Portfolio</title>
       </Head>

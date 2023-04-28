@@ -1,4 +1,5 @@
 import { SocialIcon } from "react-social-icons";
+import { motion } from 'framer-motion';
 
 type Props = {}
 
@@ -13,12 +14,12 @@ export default function Header({}: Props) {
                 bgColor="transparent"
             />
             <SocialIcon 
-                url="https://www.youtube.com/channel/UCGyvuq2OKremAppYWxN76aA" 
+                url="https://github.com/Manidoux41" 
                 fgColor="gray"
                 bgColor="transparent"
             />
             <SocialIcon 
-                url="https://www.youtube.com/channel/UCGyvuq2OKremAppYWxN76aA" 
+                url="https://www.linkedin.com/in/manfred-p-804a72198/" 
                 fgColor="gray"
                 bgColor="transparent"
             />

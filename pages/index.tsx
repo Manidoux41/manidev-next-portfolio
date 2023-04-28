@@ -9,7 +9,19 @@ const Home: NextPage = () => {
         <title>Manidev's Portfolio</title>
       </Head>
 
-      <h1 className="text-4xl font-semibold text-blue-500">Let's build an AWESOME portfolio</h1>
+      {/* Header */}
+
+      {/* Hero */}
+
+      {/* About */}
+
+      {/* Experiences */}
+
+      {/* Skills */}
+
+      {/* Projects  */}
+
+      {/* Contact me */}
     </div>
   )
 }

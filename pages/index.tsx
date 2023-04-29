@@ -2,6 +2,7 @@
 import About from "@/components/About"
 import Header from "@/components/Header"
 import Hero from "@/components/Hero"
+import WorkExperience from "@/components/WorkExperience"
 import { NextPage } from "next"
 import Head from "next/head"
 
@@ -19,7 +20,9 @@ const Home: NextPage = () => {
         <About />
       </section>
       {/* Experiences */}
-
+      <section>
+        <WorkExperience />
+      </section>
       {/* Skills */}
 
       {/* Projects  */}

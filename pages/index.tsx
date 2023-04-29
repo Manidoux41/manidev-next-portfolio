@@ -20,7 +20,7 @@ const Home: NextPage = () => {
         <About />
       </section>
       {/* Experiences */}
-      <section>
+      <section id="experience" className="snap-center">
         <WorkExperience />
       </section>
       {/* Skills */}
